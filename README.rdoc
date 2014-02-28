@@ -1,3 +1,7 @@
+== for better view, check raw version
+https://raw.github.com/gdsdong/paperclip/master/README.rdoc
+
+
 Step 1, New a project
 
 rails new demo
